@@ -20,6 +20,7 @@
     -  `package.json`
     -  `bower.json`
     -  `component.json`
+    -  `composer.json``
  * Replace version number strings in text files, including:
     -  config files
     -  source code
