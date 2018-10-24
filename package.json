@@ -1,5 +1,5 @@
 {
-  "name": "version-bump-prompt",
+  "name": "@kaiser-software/version-bump-prompt",
   "version": "4.2.1",
   "description": "Automatically (or with prompts) bump your version number, commit changes, tag, and push to Git",
   "keywords": [
